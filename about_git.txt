@@ -1,0 +1,7 @@
+git add.
+
+git commit -m "nice"
+
+git status
+
+git push -u origin master
